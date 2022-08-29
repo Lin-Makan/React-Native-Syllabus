@@ -1,0 +1,1503 @@
+
+
+ React Native Questions :
+ =========================
+
+       *** Core Concepts *** 
+           ==============
+     1. React Native - Overview
+     2. React Native - Environment Setup
+     3. React Native - App
+     4. React Native - State
+     5. React Native - Props
+     6. React Native - Styling
+     7. React Native - Flexbox
+     8. React Native - ListView 
+     9. React Native - Text Input
+    10. React Native - ScrollView
+    11. React Native - Images
+    12. React Native - HTTP
+    13. React Native - Buttons
+    14. React Native - Animations
+    15. React Native - Debugging
+    16. React Native - Router
+    17. React Native - Running IOS
+    18. React Native - Running Android
+
+ 1. <<<<<<<<< React Native - Overview >>>>>>>>>
+       
+        React Native Features :
+        ````````````````````````
+        React Native Advantages :
+        `````````````````````````
+        React Native Limitations/Disadvantages :
+        ````````````````````````````````````````    
+__________________________________________________
+      React Native - Overview                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Overview
+                                                                                        
+2) Definition of React Native - Overview ?
+------------------------------------------
+*
+ 
+3) What is React Native - Overview About ?
+-----------------------------------------
+*
+*
+
+4) What does React Native - Overview Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Overview :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Overview :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Overview :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< React Native - Environment Setup >>>>>>>>>
+         
+ couple of things needed to "install" to set up the environment for React Native :
+ We will use OSX as our building platform.  
+              * NodeJS
+              * NPM
+       
+      * Steps to Set up Our Environment :
+        `````````````````````````````````
+          (A) Step 1: Install create-react-native-app 
+          (B) Step 2: Create project
+          (C) Step 3: NodeJS Python Jdk8
+          (D) Step 4: Install React Native CLI 
+          (E) Step 5: Start react native
+          (F) Step 6: Eject the project
+          (G) Step 7: Installing Android Studio
+          (H) Step 8: Configuring AVD Manager
+          (I) Step 10: Running android 
+          (J) Step 11: local.properties
+          (K) Step 12: Hot Reloading  
+__________________________________________________
+     React Native - Environment Setup             |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Environment Setup
+                                                                                        
+2) Definition of React Native - Environment Setup ?
+---------------------------------------------------
+*
+ 
+3) What is React Native - Environment Setup About ?
+---------------------------------------------------
+*
+*
+
+4) What does React Native - Environment Setup Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Environment Setup :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Environment Setup :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Environment Setup :
+-------------------------------------------------
+*
+*
+_________________________________________________________________________________________
+
+ 3. <<<<<<<<< React Native - App >>>>>>>>>
+       
+       "app.js" file
+        ============
+         open the default app, observe that what the "app.js" file
+         looks like :
+        
+      * Output with Android/IOS Emulator :
+        
+      * Hello world -
+           To display message "welcometo Tutorialspoint".   
+__________________________________________________
+     React Native - App                           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - App
+                                                                                        
+2) Definition of React Native - App ?
+-------------------------------------
+*
+ 
+3) What is React Native - App About ?
+-------------------------------------
+*
+*
+
+4) What does React Native - App Do ?
+------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - App :
+----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - App :
+-------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - App :
+-----------------------------------
+*
+*
+__________________________________________________________________________________________
+
+ 4. <<<<<<<<< React Native - State >>>>>>>>>
+         
+                 (A) Difference between State and Props :
+                     `````````````````````````````````````
+                        * State
+                        * Props 
+                   
+                      Using State :
+                      =============
+                *  "App.js" of Using State -
+
+                *  Output of Android/IOS Emulator "App.js" of Using State :  
+
+                      Updating State :
+                      =================
+                        "Home.js" of Updating State
+__________________________________________________
+     React Native - State                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - State
+                                                                                        
+2) Definition of React Native - State ?
+---------------------------------------
+*
+ 
+3) What is React Native - State About ?
+---------------------------------------
+*
+*
+
+4) What doesReact Native - State Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - State :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - State :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - State :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< React Native - Props >>>>>>>>>
+        
+                   (A) Container Component :
+                       ``````````````````````
+                          Theory and Example :
+                         
+                         "App.js" of Container Component :
+
+                   (B) Presentational Component :
+                       ```````````````````````````
+                 * Theory and Example :
+
+                 *  "PresentationalComponent.js" 
+                    
+                 *  Output of Android/ios Emulator "Presentational Component" :
+__________________________________________________
+      React Native - Props                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Props
+                                                                                        
+2) Definition of React Native - Props ?
+---------------------------------------
+*
+ 
+3) What is React Native - Props About ?
+---------------------------------------
+*
+*
+
+4) What does React Native - Props Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Props :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Props :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Props :
+-------------------------------------
+*
+*
+__________________________________________________________________________________________
+
+ 6. <<<<<<<<< React Native - Styling >>>>>>>>>
+         
+                  (A) Container Component :
+                      ---------------------
+                  (B) Presentational Component :
+                      --------------------------
+                 * Android/IOS Emulator of "Presentational Component"       
+__________________________________________________
+       React Native - Styling                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Styling
+                                                                                        
+2) Definition of React Native - Styling ?
+-----------------------------------------
+*
+ 
+3) What is React Native - Styling About ?
+-----------------------------------------
+*
+*
+
+4) What does React Native - Styling Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Styling :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Styling :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Styling :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< React Native - Flexbox >>>>>>>>>
+    
+               Layout of Flexbox :
+               ====================
+    To achieve the desired layout, flexbox offers three main properties -
+       * "flexDirection"
+       * "justifyContent"
+       * "alignItems"
+                  
+              = Table of Layout of Flexbox :
+      
+           * to align the items vertically and centralize them,
+             code this "App.js" Example :
+                 
+                 = Ouput on Android/IOS Emulator :
+            
+           * for items needed to be moved to the right side and spaces need
+             to be added between them, code this "App.js" Example :
+                    
+                 = Output on Android/IOS Emulator :
+__________________________________________________
+    React Native - Flexbox                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Flexbox
+                                                                                        
+2) Definition of React Native - Flexbox ?
+-----------------------------------------
+*
+ 
+3) What is React Native - Flexbox About ?
+-----------------------------------------
+*
+*
+
+4) What does React Native - Flexbox Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Flexbox :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Flexbox :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Flexbox :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< React Native - ListView >>>>>>>>>
+        
+       * "App.js" of ListView :
+           To create a list in ReactNative
+        
+       * To create a list, we will use "map() method".  
+         To iterate over an 'array' of items and 'render' each one :
+            
+          = Android/IOS Emulator Output of ListView : 
+__________________________________________________
+     React Native - ListView                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - ListView
+                                                                                        
+2) Definition of React Native - ListView ?
+------------------------------------------
+*
+ 
+3) What is React Native - ListView About ?
+------------------------------------------
+*
+*
+
+4) What does React Native - ListView Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - ListView :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - ListView :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - ListView :
+----------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 9. <<<<<<<<< React Native - Text Input >>>>>>>>> 
+
+         To work with textinput elements in ReactNative : 
+         The Home component will import and render inputs :
+             
+      * "App.js" of Text Input :
+          
+      * (A) Inputs :
+             = To define initial state -
+             = To create the functions 'handleEmail & 'handlePasword'.
+             = What do these ^ functions do :
+             = What does the "login() function" do :
+       
+    * Add properties to text input to disable 'auto capilatisation',
+      to remove the bottom border on "Android Devices" and set a placeholder.
+                                      """""""""""""""
+         
+    * Outputs on Android/IOS Emulator :
+__________________________________________________
+     React Native - Text Input                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Text Input
+                                                                                        
+2) Definition of React Native - Text Input ?
+--------------------------------------------
+*
+ 
+3) What is React Native - Text Input About ?
+--------------------------------------------
+*
+*
+
+4) What does React Native - Text Input Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Text Input :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Text Input :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Text Input :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 10. <<<<<<<<< React Native - ScrollView >>>>>>>>>
+       
+       Working with "ScrollView" element -
+          
+        * create "ScrollViewExample.js" and import it in "Home".
+        * "App.js" of ScrollView -
+          
+        * "ScrollView.js" will render a list of names.
+           We'll create it in state -
+         
+        = Output on Android/IOS Emulator :
+__________________________________________________
+     React Native - ScrollView                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - ScrollView
+                                                                                        
+2) Definition of React Native - ScrollView ?
+--------------------------------------------
+*
+ 
+3) What is React Native - ScrollView About ?
+--------------------------------------------
+*
+*
+
+4) What does React Native - ScrollView Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - ScrollView :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - ScrollView :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - ScrollView :
+------------------------------------------
+*
+*
+________________________________________________________________________________
+        
+ 11. <<<<<<<<< React Native - Images >>>>>>>>>
+       
+          (A)  Adding Image :
+               ```````````````
+                "App.js" of Images :  
+
+            * To Access 'Local Images', use the syntax :
+              
+           * Output on Android/IOS Emulator :  
+            
+           
+          (B) Screen Density :
+              `````````````````
+          (C) Network Images : 
+              `````````````````
+               * App.js Example of Network Images -
+                   = The Syntax and Actual Code :
+               
+            * Output on Android/IOS Example :
+__________________________________________________
+       React Native - Images                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Images
+                                                                                        
+2) Definition of React Native - Images ?
+----------------------------------------
+*
+ 
+3) What is React Native - Images About ?
+----------------------------------------
+*
+*
+
+4) What does React Native - Images Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Images :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Images :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Images :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 12. <<<<<<<<< React Native - HTTP >>>>>>>>>
+        
+     How to use "fetch" for handling network requests : 
+       
+           * "App.js" of HTTP :
+           
+           * Syntax :
+          
+      
+       (A) Using Fetch :
+           ``````````````
+    * "componentDidMount" lifecycle method
+      to Load data from server, after the component is mounted.
+
+    * This "componentDidMount" function will, 
+         1) send GET request to the server,
+         2) return JSON data,
+         3) log output to console
+         4) update our state
+    
+    * http_example.js
+     
+     * Output on Android/IOS Emulator -
+__________________________________________________
+     React Native - HTTP                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - HTTP
+                                                                                        
+2) Definition of React Native - HTTP ?
+--------------------------------------
+*
+ 
+3) What is React Native - HTTP About ?
+--------------------------------------
+*
+*
+
+4) What does React Native - HTTP Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - HTTP :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - HTTP :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - HTTP :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 13. <<<<<<<<< React Native - Buttons >>>>>>>>>
+       
+     * "App.js" of Buttons -
+       Syntax 
+     
+      (A) Touchable Opacity :
+          ````````````````````
+    *  "App.js" of Touchable Opacity :
+           
+         * Output on Android/IOS Emulator -
+    
+       
+      (B) Touchable Highlight :
+          ``````````````````````
+     "App.js" of "Touchable Highlight" :
+        
+      (C) Touchable Native Feedback :
+          ````````````````````````````
+      "App.js" of "Touchable Native Feedback"
+        
+      (D) Touchable Without Feedback :
+          `````````````````````````````    
+__________________________________________________
+     React Native - Buttons                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Buttons
+                                                                                        
+2) Definition of React Native - Buttons ?
+-----------------------------------------
+*
+ 
+3) What is React Native - Buttons About ?
+-----------------------------------------
+*
+*
+
+4) What does React Native - Buttons Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Buttons :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Buttons :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Buttons :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 14. <<<<<<<<< React Native - Animations >>>>>>>>>
+               
+         (A) Animations Component :  
+             ```````````````````````
+              * "PresentationalAnimationComponent"
+              * Functions of "expandElement" and "collapseElement"
+          
+             "App.js" of "Animations Component".  
+__________________________________________________
+     React Native - Animations                    |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Animations
+                                                                                        
+2) Definition of React Native - Animations ?
+--------------------------------------------
+*
+ 
+3) What is React Native - Animations About ?
+--------------------------------------------
+*
+*
+
+4) What does React Native - Animations Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Animations :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Animations :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Animations :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 15. <<<<<<<<< React Native - Debugging >>>>>>>>>
+        
+      (A) In App Developer Menu :
+__________________________________________________
+     React Native - Debugging                     |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Debugging
+                                                                                        
+2) Definition of React Native - Debugging ?
+-------------------------------------------
+*
+ 
+3) What is React Native - Debugging About ?
+-------------------------------------------
+*
+*
+
+4) What does React Native - Debugging Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Debugging :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Debugging :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Debugging :
+-----------------------------------------
+*
+*
+_________________________________________________________________________________
+
+ 16. <<<<<<<<< React Native - Router >>>>>>>>>
+      
+        * To understand navigation in React Native :
+               
+         (A) Step 1: Install Router : 
+         (B) Step 2: Entire Application :
+              * "index.ios.js" 
+              * "index.android.js"
+              
+             = "App.js" of Router -
+          
+         (C) Step 3: Add Router :
+              'Routes.js' :
+
+         (D) Step 4: Create Components :
+             ````````````````````````````
+           * We Already have the "Home.js" Component,
+           * We will add the "About.js" Component,  
+          
+   * The app will render the initial "Home" screen on Android/ios emulator :
+__________________________________________________
+      React Native - Router                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Router
+                                                                                        
+2) Definition of React Native - Router ?
+----------------------------------------
+*
+ 
+3) What is React Native - Router About ?
+----------------------------------------
+*
+*
+
+4) What does React Native - Router Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Router :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Router :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Router :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 17. <<<<<<<<< React Native - Running IOS >>>>>>>>>
+__________________________________________________
+     React Native - Running IOS                   |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Running IOS
+                                                                                        
+2) Definition of React Native - Running IOS ?
+---------------------------------------------
+*
+ 
+3) What is React Native - Running IOS About ?
+---------------------------------------------
+*
+*
+
+4) What does React Native - Running IOS Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Running IOS :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Running IOS :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Running IOS :
+-------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 18. <<<<<<<<< React Native - Running Android >>>>>>>>>
+__________________________________________________
+     React Native - Running Android               |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Running Android
+                                                                                        
+2) Definition of React Native - Running Android ?
+-------------------------------------------------
+*
+ 
+3) What is React Native - Running Android About ?
+-------------------------------------------------
+*
+*
+
+4) What does React Native - Running Android Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Running Android :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Running Android :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Running Android :
+-----------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+         *** Components and APIs ***
+             ===================
+    1. React Native - View
+    2. React Native - WebView
+    3. React Native - Modal
+    4. React Native - ActivityIndicator
+    5. React Native - Picker
+    6. React Native - Status Bar
+    7. React Native - Switch
+    8. React Native - Text
+    9. React Native - Alert
+   10. React Native - Geolocation
+   11. React Native - AsyncStorage
+
+1. <<<<<<<<< React Native - View >>>>>>>>>
+         
+      (A) Use Cases : 
+          ````````````
+__________________________________________________
+      React Native - View                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - View
+                                                                                        
+2) Definition of React Native - View ?
+--------------------------------------
+*
+ 
+3) What is React Native - View About ?
+--------------------------------------
+*
+*
+
+4) What does React Native - View Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - View :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - View :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - View :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 2. <<<<<<<<< React Native - WebView >>>>>>>>>
+__________________________________________________
+     React Native - WebView                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - WebView
+                                                                                        
+2) Definition of React Native - WebView ?
+-----------------------------------------
+*
+ 
+3) What is React Native - WebView About ?
+-----------------------------------------
+*
+*
+
+4) What does React Native - WebView Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - WebView :
+--------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - WebView :
+-----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - WebView :
+---------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 3. <<<<<<<<< React Native - Modal >>>>>>>>>
+__________________________________________________
+     React Native - Modal                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Modal
+                                                                                        
+2) Definition of React Native - Modal ?
+---------------------------------------
+*
+ 
+3) What is React Native - Modal About ?
+---------------------------------------
+*
+*
+
+4) What does React Native - Modal Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Modal :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Modal :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Modal :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 4. <<<<<<<<< React Native - ActivityIndicator >>>>>>>>>
+__________________________________________________
+    React Native - ActivityIndicator              |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - ActivityIndicator
+                                                                                        
+2) Definition of React Native - ActivityIndicator ?
+---------------------------------------------------
+*
+ 
+3) What is React Native - ActivityIndicator About ?
+---------------------------------------------------
+*
+*
+
+4) What does React Native - ActivityIndicator Do ?
+--------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - ActivityIndicator :
+------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - ActivityIndicator :
+---------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - ActivityIndicator :
+-------------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 5. <<<<<<<<< React Native - Picker >>>>>>>>>
+__________________________________________________
+      React Native - Picker                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Picker
+                                                                                        
+2) Definition of React Native - Picker ?
+----------------------------------------
+*
+ 
+3) What is React Native - Picker About ?
+----------------------------------------
+*
+*
+
+4) What does React Native - Picker Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Picker :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Picker :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Picker :
+--------------------------------------
+*
+*
+_______________________________________________________________________
+
+ 6. <<<<<<<<< React Native - Status Bar >>>>>>>>>
+__________________________________________________
+       React Native - Status Bar                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Status Bar
+                                                                                        
+2) Definition of React Native - Status Bar ?
+--------------------------------------------
+*
+ 
+3) What is React Native - Status Bar About ?
+--------------------------------------------
+*
+*
+
+4) What does React Native - Status Bar Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Status Bar :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Status Bar :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Status Bar :
+------------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 7. <<<<<<<<< React Native - Switch >>>>>>>>>
+__________________________________________________
+     React Native - Switch                        |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Switch
+                                                                                        
+2) Definition of React Native - Switch ?
+----------------------------------------
+*
+ 
+3) What is React Native - Switch About ?
+----------------------------------------
+*
+*
+
+4) What does React Native - Switch Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Switch :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Switch :
+----------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Switch :
+--------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 8. <<<<<<<<< React Native - Text >>>>>>>>>
+__________________________________________________
+     React Native - Text                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Text
+                                                                                        
+2) Definition of React Native - Text ?
+--------------------------------------
+*
+ 
+3) What is React Native - Text About ?
+--------------------------------------
+*
+*
+
+4) What does React Native - Text Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Text :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Text :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Text :
+------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 9. <<<<<<<<< React Native - Alert >>>>>>>>>
+__________________________________________________
+     React Native - Alert                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Alert
+                                                                                        
+2) Definition of React Native - Alert ?
+---------------------------------------
+*
+ 
+3) What is React Native - Alert About ?
+---------------------------------------
+*
+*
+
+4) What does React Native - Alert Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Alert :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Alert :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Alert :
+-------------------------------------
+*
+*
+_______________________________________________________________________________
+
+ 10. <<<<<<<<< React Native - Geolocation >>>>>>>>>
+__________________________________________________
+      React Native - Geolocation                  |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - Geolocation
+                                                                                        
+2) Definition of React Native - Geolocation ?
+---------------------------------------------
+*
+ 
+3) What is React Native - Geolocation About ?
+---------------------------------------------
+*
+*
+
+4) What does React Native - Geolocation Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - Geolocation :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - Geolocation :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - Geolocation :
+-------------------------------------------
+*
+*
+_______________________________________________________________________
+        
+ 11. <<<<<<<<< React Native - AsyncStorage >>>>>>>>>
+__________________________________________________
+      React Native - AsyncStorage                 |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* React Native - AsyncStorage
+                                                                                        
+2) Definition of React Native - AsyncStorage ?
+----------------------------------------------
+*
+ 
+3) What is React Native - AsyncStorage About ?
+----------------------------------------------
+*
+*
+
+4) What does React Native - AsyncStorage Do ?
+---------------------------------------------
+*
+*
+
+5) Advantages/Benefits of React Native - AsyncStorage :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of React Native - AsyncStorage :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of React Native - AsyncStorage :
+--------------------------------------------
+*
+*
+_______________________________________________________________________________
